@@ -6,6 +6,7 @@ def bark
   end
 end 
 
+fido.bark
 
 def sit 
   puts "The dog is sitting."
