@@ -11,4 +11,4 @@ fido = Dog.new
     puts "The dog is sitting."
   end 
 
-end
+
